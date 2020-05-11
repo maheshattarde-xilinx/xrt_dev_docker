@@ -1,6 +1,6 @@
 # xrt_dev_docker
-
-Stable Enviornment recommeded by  at Xilinx XRT setup
+*Unofficial*
+Stable Enviornment recommeded at Xilinx XRT setup
 * Install docker for windows from docker 
 * Go to command line on windows, change directory to xrtdev  
 * Build Docker image with dockerfile if you are in xrt_dev_docker
